@@ -1,4 +1,1 @@
-DATABASE_URL
-AUTH0_DOMAIN
-ALGORITHMS
-API_AUDIENCE
+export DATABASE_URL: "postgres://oijvhxbegtrudc:8162e8006c6b81e5a118a36e329f3dc8a1de3b33d7024284ea8c51096c15b200@ec2-34-195-115-225.compute-1.amazonaws.com:5432/d23cvvrr8lb3pb"
