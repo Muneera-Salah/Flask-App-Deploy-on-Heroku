@@ -107,7 +107,6 @@ sqlparse==0.2.4
 sshtunnel==0.1.4
 systemd-python==234
 toml==0.10.1
-unattended-upgrades==0.1
 uritemplate==0.6
 urllib3==1.25.8
 usb-creator==0.3.7
